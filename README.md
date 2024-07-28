@@ -48,6 +48,19 @@ Kaggle Titanic - Machine Learning from Disaster Dataset - https://www.kaggle.com
 
 ----
 # Data Transformation:
+1. Creating new feature from existing one (Title)
+2. Converting Titles to ordinal values
+3. Drop the Name feature
+4. Converting categorical feature Sex to ordinal values
+5. Completing numerical continous features
+6. Created Age Band field and found correlation with survival
+7. converting the age bands to ordinal values
+8. drop AgeBand feature
+9. Creating new feature from existing one (FamilySize, IsAlone)
+10. Drop FamilySize, Parch, SibSp
+11. Created Fare Band field and found correlation with survival
+12. Converting the fare band to numeric values
+13. Droping Fare Band field
 
 
 
