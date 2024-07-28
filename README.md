@@ -19,6 +19,21 @@ In this challenge, we ask you to build a predictive model that answers the quest
 # Data Sourcing: 
 Kaggle Titanic - Machine Learning from Disaster Dataset - https://www.kaggle.com/competitions/titanic/overview
 
+----
+# Attributes
+PassengerId: Unique identifier for each passenger
+Survived: Survival status (0 = No, 1 = Yes)
+Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+Name: Passenger's name
+Sex: Gender of the passenger
+Age: Age of the passenger
+SibSp: Number of siblings/spouses aboard the Titanic
+Parch: Number of parents/children aboard the Titanic
+Ticket: Ticket number
+Fare: Passenger fare
+Cabin: Cabin number
+Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
 
 ----
 # Data Transformation:
